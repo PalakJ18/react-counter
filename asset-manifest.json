@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-counter/static/css/main.ad6599ca.css",
+    "main.js": "/react-counter/static/js/main.66277889.js",
+    "index.html": "/react-counter/index.html",
+    "main.ad6599ca.css.map": "/react-counter/static/css/main.ad6599ca.css.map",
+    "main.66277889.js.map": "/react-counter/static/js/main.66277889.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad6599ca.css",
+    "static/js/main.66277889.js"
+  ]
+}
